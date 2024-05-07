@@ -1,7 +1,7 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "James' Blog"
-description = "My thoughts on python, typing and maybe AI alignment"
-author = "James Chua"
+title = "Elias' Blog"
+description = "Blog containing my random thoughts when I'm keen in writing those"
+author = "Elia Migliore (template and initial repo stolen from James Chua)"
 tags = ["index"]
 +++
